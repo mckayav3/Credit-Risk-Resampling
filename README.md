@@ -22,11 +22,11 @@ This project leverages python 3.8.8 with the following packages:
 
 * [pathlib](https://docs.python.org/3/library/pathlib.html) - For location through the directory and file path.
 
-* []() - For .
+* [balance_accuracy_score](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.balanced_accuracy_score.html) - For computing the balanced accuracy.
 
-* []() - For .
+* [confusion_matrix](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.confusion_matrix.html) - For computing the confusion matrix to evaluate the accuracy of a classification.
 
-* []() - For .
+* [classification_report_imbalanced](http://glemaitre.github.io/imbalanced-learn/generated/imblearn.metrics.classification_report_imbalanced.html) - For building a classification report based on metrics used with an imbalanced dataset.
 
 ---
 
@@ -34,16 +34,27 @@ This project leverages python 3.8.8 with the following packages:
 
 In gitbash after you have activated your dev environment, install the following:
 
-```python
-  pip install jupyter lab
-```
+*Jupyter Lab
 
-*
-
-    ``
+    `pip install jupyter lab`
     
-![]()
+![install juypter lab]()
 
+*Imbalance-learn
+
+    `conda install -c conda-forge imbalanced-learn`
+    
+![install imbalanced-learn]()
+
+![list imbalanced-learn]()
+
+*Pydotplus
+
+    `conda install -c conda-forge pydotplus`
+    
+![install pydotplus]()
+
+![list pydotplus]()
 
 ---
 
