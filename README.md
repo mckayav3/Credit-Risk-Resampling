@@ -60,7 +60,7 @@ In gitbash after you have activated your dev environment, install the following:
 
 ## Examples
 
-The images below show the different types of charts and graphs that should be a result from running the code in the Forecasting Net Prophet application. By reviewing the charts and graphs we can produce a sales forecast to the finance division with the expected total sales for next quarter.
+The images below show the different types of charts and graphs that should be a result from running the code in the Credit Risk Resampling application. By reviewing the charts and graphs below we can see.
 
 
 ![]()
