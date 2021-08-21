@@ -38,54 +38,43 @@ In gitbash after you have activated your dev environment, install the following:
 
     `pip install jupyter lab`
     
-![install juypter lab]()
+![install juypter lab](https://github.com/mckayav3/Module_12_Challenge/blob/main/Credit%20Risk%20Classification/images/install_jupyterlab.JPG)
 
 *Imbalance-learn
 
     `conda install -c conda-forge imbalanced-learn`
     
-![install imbalanced-learn]()
+![install imbalanced-learn](https://github.com/mckayav3/Module_12_Challenge/blob/main/Credit%20Risk%20Classification/images/install_imbalanced_learn.JPG)
 
-![list imbalanced-learn]()
+![list imbalanced-learn](https://github.com/mckayav3/Module_12_Challenge/blob/main/Credit%20Risk%20Classification/images/list_imbalanced.JPG)
 
 *Pydotplus
 
     `conda install -c conda-forge pydotplus`
     
-![install pydotplus]()
+![install pydotplus](https://github.com/mckayav3/Module_12_Challenge/blob/main/Credit%20Risk%20Classification/images/install_pydotplus.JPG)
 
-![list pydotplus]()
+![list pydotplus](https://github.com/mckayav3/Module_12_Challenge/blob/main/Credit%20Risk%20Classification/images/list_pydotplus.JPG)
 
 ---
 
 ## Examples
 
-The images below show the different types of charts and graphs that should be a result from running the code in the Credit Risk Resampling application. By reviewing the charts and graphs below we can see.
+The images below show the different types of charts and graphs that should be a result from running the code in the Credit Risk Resampling application. By reviewing the charts and graphs below will allow us to choose which model best fits our needs to determine a borrower’s creditworthiness.
 
 
-![]()
+![lending dataframe](https://github.com/mckayav3/Module_12_Challenge/blob/main/Credit%20Risk%20Classification/images/lending_df.JPG)
 
 
-![]()
+![X and y variables](https://github.com/mckayav3/Module_12_Challenge/blob/main/Credit%20Risk%20Classification/images/y_X_variables.JPG)
 
-![]()
+![y value counts](https://github.com/mckayav3/Module_12_Challenge/blob/main/Credit%20Risk%20Classification/images/y_value_count.JPG)
 
-![]()
+![model test predictions](https://github.com/mckayav3/Module_12_Challenge/blob/main/Credit%20Risk%20Classification/images/model_test_predict.JPG)
 
-![]()
+![y resampled value counts](https://github.com/mckayav3/Module_12_Challenge/blob/main/Credit%20Risk%20Classification/images/y_resampled_value_count.JPG)
 
-![]()
-
-![]()
-
-![]()
-
-![]()
-
-![]()
-
-
-![]()
+![model resampled predictoins](https://github.com/mckayav3/Module_12_Challenge/blob/main/Credit%20Risk%20Classification/images/model_resampled_predict.JPG)
 
 
 ---
